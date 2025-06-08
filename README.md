@@ -16,6 +16,7 @@
 
     Step:
     - Pindahkan variabel x<sup>2</sup> ke kiri, maka didapatkan -6x<sup>2</sup> = (x<sup>3</sup> - 19x - 84)
-    - Jadikan sebagai fungsi x, maka didapatkan x = (x<sup>3</sup> - 19x - 84) / -6x
+    - Bagi seluruh ruas dengan -6, dan akarkan keduanya
+    - Jadikan sebagai fungsi x, maka didapatkan x = (x<sup>3</sup>/-6 + 19x/6 + 14)<sup>½</sup>
     - f(x) baru akan digunakan sebagai fungsi perhitungan untuk mencari akar x (iterasi 1 - 5)
     - Menghitung EA(_Error Approximation_) berdasarkan nilai akar x yang didapat pada setiap iterasinya
